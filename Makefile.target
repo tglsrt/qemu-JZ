@@ -230,6 +230,7 @@ obj-mips-y += mipsnet.o ne2000-isa.o
 obj-mips-y += pflash_cfi01.o
 obj-mips-y += vmware_vga.o
 obj-mips-y += mips_pavo.o nand_bpage.o mips_jz.o mips_jz_clk.o
+obj-mips-y += mips_jz4750.o jz4750_generic.o mips_jz4750_clk.o
 
 obj-microblaze-y = petalogix_s3adsp1800_mmu.o
 
